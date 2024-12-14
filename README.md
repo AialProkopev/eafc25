@@ -71,4 +71,5 @@
 
 ### Common tricks
 
+- Do not RUSH!!!
 - Use player lock for upper struggle
