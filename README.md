@@ -55,9 +55,9 @@
 ### Skill Moves
 
 - Ball Roll
-- Flair Nutmeg: L1 + R1 + RS(direction)
+- Flair Nutmeg: L1 + R1 + RS (direction)
 - Trickster Fake Shot
-- Heel to Heel Ball Roll: L1 + RS(Up, Down)
+- Heel to Heel Ball Roll: L1 + RS (Up, Down)
 - McGeady Spin Cancel
 - Reverse Elastico
 - Toe Drag Step Over (L1 elastico)
