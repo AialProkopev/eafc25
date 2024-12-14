@@ -10,7 +10,7 @@
 ### Dribbling
 
 - Use LS softly (press not fully)
-- Do not use fast dribbling in danger area, user controlled dribbling!
+- Do not use fast dribbling in danger area, use controlled dribbling!
 - Speed boost (L1 + R2)
 - Strafe dribbling(L1)
 - Controlled dribbling (R1)
