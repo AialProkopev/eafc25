@@ -22,6 +22,7 @@
 - Use Driven Ground Pass more often
 - Use smooth player animation for passing faster
 - Go towards the ball!
+- Flair Nutmeg Pass: L1 + R1 + RS, pass
 
 ### Attacking
 
@@ -55,7 +56,6 @@
 
 - Ball Roll
 - Flair Nutmeg: L1 + R1 + RS(direction)
-- Flair Nutmeg Pass: L1 + R1 + RS, pass
 - Trickster Fake Shot
 - Heel to Heel Ball Roll: L1 + RS(Up, Down)
 - McGeady Spin Cancel
