@@ -62,6 +62,7 @@
 - Reverse elastico
 - Toe drag step over(L1 elastico)
 - La Croqueta
+- Ball Roll Drag
 
 ### Formation
 
