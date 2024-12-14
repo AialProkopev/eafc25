@@ -73,3 +73,4 @@
 
 - Do not RUSH!!!
 - Use player lock for upper struggle
+- Hold the controller right
