@@ -12,7 +12,7 @@
 - Use LS softly (press not fully) for more agility
 - Do not use Fast Dribbling (R2) in danger area, use Controlled Dribbling!
 - Speed Boost (L1 + R2)
-- Strafe Dribbling(L1)
+- Strafe Dribbling (L1)
 - Controlled Dribbling (R1)
 - Slow Dribbling (L2 + R1)
 - Agile Dribbling (L2 + R2)
