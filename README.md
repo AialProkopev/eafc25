@@ -69,7 +69,7 @@
 - 4-3-3
 - 4-1-3-2
 
-### Common tricks
+### Common tips
 
 - Do not RUSH!!!
 - Use player lock for upper struggle
