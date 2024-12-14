@@ -3,48 +3,48 @@
 
 ### Top shots
 
-1. Power shot
-2. Trivela shot (tip: use a few steps(R1 dribbling or simple) or ball roll) 
-4. Finesse shot
+1. Power Shot (tip: One Touch is better way)
+2. Trivela Shot (tip: Do a few steps using R1 Dribbling or LS Dribbling or Ball Roll) 
+4. Finesse Shot (tip: Ball Roll)
 
 ### Dribbling
 
-- Use LS softly (press not fully)
-- Do not use fast dribbling in danger area, use controlled dribbling!
-- Speed boost (L1 + R2)
-- Strafe dribbling(L1)
-- Controlled dribbling (R1)
-- L2 + R1 slow dribbling
-- Agile dribbling (L2 + R2)
+- Use LS softly (press not fully) for more agility
+- Do not use Fast Dribbling (R2) in danger area, use Controlled Dribbling!
+- Speed Boost (L1 + R2)
+- Strafe Dribbling(L1)
+- Controlled Dribbling (R1)
+- Slow Dribbling (L2 + R1)
+- Agile Dribbling (L2 + R2)
 
 ### Passing
 
-- Use driven ground pass more often
-- Use player animation for passing
+- Use Driven Ground Pass more often
+- Use smooth player animation for passing faster
 - Go towards the ball!
 
 ### Attacking
 
 - Use dribbling for spacing
-- Use trigger runs(L1)
-- Use call to support(R1 or R1 + R1 for double)
-- Player lock
+- Use Trigger Runs (L1)
+- Use Call To Support (R1 or R1 + R1 for double)
+- Use Player Lock (L3 + R3)
 
 ### Attacking combo
 
-- L1 triangle
+- L1 Triangle
 - Trapezoid
 
 ### Defending
 
-- Use right stick and L1 for switching
-- Use R1 for pressing(or R1 + R1)
+- Use RS and L1 for switching
+- Use R1 for pressing (or R1 + R1)
 - Bring the players back
 - Watch his player
 - Do not break defending line!
 - Use intercepting instead of tackling!
-- Use offside traps in correct timing for pressing
-- Goalkeeper movement(Y + Y or R3)
+- Use Offside Trap in correct timing for pressing
+- Goalkeeper movement (Y + Y or R3)
 
 ### Corners
 
@@ -53,26 +53,19 @@
 
 ### Skill Moves
 
-- Ball roll
-- Flair nutmeg: L1 + R1 + RS(direction)
-- Flair nutmeg pass: L1 + R1 + RS, pass
-- Trickster fakeshow
-- Heel to ball roll: L1 + RS(Up, Down)
+- Ball Roll
+- Flair Nutmeg: L1 + R1 + RS(direction)
+- Flair Nutmeg Pass: L1 + R1 + RS, pass
+- Trickster Fake Shot
+- Heel to Heel Ball Roll: L1 + RS(Up, Down)
 - McGeady Spin Cancel
-- Reverse elastico
-- Toe drag step over(L1 elastico)
+- Reverse Elastico
+- Toe Drag Step Over (L1 elastico)
 - La Croqueta
-- Ball Roll Drag
-
-### Formation
-
-- 4-4-2
-- 4-4-1-1
-- 4-3-3
-- 4-1-3-2
+- Step Over Ball
 
 ### Common tips
 
 - Do not RUSH!!!
-- Use player lock for upper struggle
+- Use Player Lock for upper struggle
 - Hold the controller right
