@@ -61,6 +61,7 @@
 - McGeady Spin Cancel
 - Reverse elastico
 - Toe drag step over(L1 elastico)
+- La Croqueta
 
 ### Formation
 
